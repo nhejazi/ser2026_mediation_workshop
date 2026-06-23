@@ -44,11 +44,11 @@ jobs:
         env:
           RENV_CONFIG_REPOS_OVERRIDE: "https://cloud.r-project.org"
           GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
-      # - name: Install Torch dependencies
-      #   run: Rscript -e 'torch::install_torch(); renv::snapshot()'
-      - name: Render and publish
-        uses: quarto-dev/quarto-actions/publish@v2
-        with:
-          target: gh-pages
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    # - name: Install Torch dependencies
+    #   run: Rscript -e 'torch::install_torch(); renv::snapshot()'
+    # - name: Render and publish
+    #   uses: quarto-dev/quarto-actions/publish@v2
+    #   with:
+    #     target: gh-pages
+    #   env:
+    #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
