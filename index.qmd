@@ -15,7 +15,7 @@ authors:
   - name: Nick Williams
     affiliation: Columbia Epidemiology
     orcid: 0000-0002-1378-4831
-    email: ntw2117@cumc.columbia.edu
+    email: nicholaswilliams@berkeley.edu
 ---
 
 ```{r}
@@ -29,7 +29,8 @@ library(here)
 # Welcome! {.unnumbered}
 
 This open source, reproducible vignette accompanies a half-day workshop on
-modern methods for *causal mediation analysis*.
+modern methods for *causal mediation analysis*, offered at the SER 2026 annual
+meeting.
 
 ## About this workshop {#about}
 
@@ -66,8 +67,6 @@ parameter estimable from the observed data distribution). Familiarity with the
 - 10:30A-11:10A: Using the EIF for estimating the natural direct effect <!-- Nima, 35-->
 - 11:10A-12:10P: Example walkthrough with `R` packages for effect estimation <!-- Nick, 45-->
 - 12:10P-12:30P: Wrap-up
-
-**NOTE: All times listed in XX Daylight Time (XX-DT).**
 
 ## About the instructors {#instructors}
 

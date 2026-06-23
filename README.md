@@ -1,15 +1,14 @@
-# *Modern* Causal Mediation Analysis [![Quarto Publish](https://github.com/nhejazi/causal_mediation_workshops/actions/workflows/publish.yml/badge.svg)](https://github.com/nhejazi/causal_mediation_workshops/actions/workflows/publish.yml)
+# _Modern_ Causal Mediation Analysis [![Quarto Publish](https://github.com/nhejazi/ser2026_mediation_workshop/actions/workflows/publish.yml/badge.svg)](https://github.com/nhejazi/causal_mediation_workshops/actions/workflows/publish.yml)
 
 This repo houses materials for the workshop **Modern Causal Mediation
 Analysis**, co-taught by [Iván Díaz](https://www.idiaz.xyz/), [Nima
 Hejazi](https://nimahejazi.org), [Kara
 Rudolph](https://kararudolph.github.io/), and [Nick
-Williams](https://nicholastwilliams.com/), annually at the SER annual meeting.
+Williams](https://nicholastwilliams.com/), annually at the [SER 2026 annual
+meeting](https://epiresearch.org/annual-meeting/).
 
-The materials are for a half- or full-day workshop targeted towards
-epidemiologists, applied (bio)statisticians, and similar health data
-scientists. The workshop materials are built using [Quarto](https://quarto.org)
-and make use of the [WebR](https://docs.r-wasm.org/webr/latest/) framework for
+The workshop materials are built using [Quarto](https://quarto.org) and make
+use of the [WebR](https://docs.r-wasm.org/webr/latest/) framework for
 interactive execution of `R` code in the browser.
 
 ## SER Course Abstract
@@ -35,5 +34,3 @@ that participants have working knowledge of the basic notions of causal
 inference, including counterfactuals and identification (i.e., linking the
 causal effect to a parameter estimable from the observed data distribution).
 Familiarity with programming in `R` is strongly recommended.
-
-(*1494/1500 characters, excluding title*)

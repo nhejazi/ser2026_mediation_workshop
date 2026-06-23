@@ -6876,7 +6876,12 @@
       ],
       "Repository": "https://mlr-org.r-universe.dev",
       "Author": "Raphael Sonabend [aut, cre] (ORCID: <https://orcid.org/0000-0001-9225-4654>)",
-      "Maintainer": "Raphael Sonabend <raphaelsonabend@gmail.com>"
+      "Maintainer": "Raphael Sonabend <raphaelsonabend@gmail.com>",
+      "RemoteType": "repository",
+      "Remotes": "mlr-org/dictionar6, mlr-org/set6",
+      "RemoteUrl": "https://github.com/mlr-org/param6",
+      "RemoteRef": "main",
+      "RemoteSha": "82a11d441863bad20a5837ec63eff3b8f2bbbc6b"
     },
     "pbkrtest": {
       "Package": "pbkrtest",
@@ -9665,8 +9670,8 @@
       "RemoteHost": "api.github.com",
       "RemoteRepo": "tmle3",
       "RemoteUsername": "tlverse",
-      "RemotePkgRef": "github::tlverse/tmle3@master",
-      "RemoteRef": "master",
+      "RemotePkgRef": "tlverse/tmle3",
+      "RemoteRef": "HEAD",
       "RemoteSha": "ed72f8a20e64c914ab25ffe015d865f7a9963d27",
       "NeedsCompilation": "no",
       "Author": "Jeremy Coyle [aut, cre, cph] (ORCID: <https://orcid.org/0000-0002-9874-6649>), Nima Hejazi [ctb] (ORCID: <https://orcid.org/0000-0002-7127-2789>)"
